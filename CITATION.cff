@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Lai"
+    given-names: "Anakin"
+    email: "anakin525lai@gmail.com"
+repository-code: "https://github.com/anakin1181/arc-workshop-sample-space"
+title: "ARC workshop sample space: A cookiecutter package with UCL ARC recommendations."
+license: "BSD-3"
